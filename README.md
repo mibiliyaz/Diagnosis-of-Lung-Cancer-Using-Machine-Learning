@@ -8,10 +8,14 @@ Dataset:  61
 2     3      pt003   30       0      5        2       0
 3     4      pt004   28       0      8        1       0
 4     5      pt005   68       4      5        6       1
-![Figure_1](https://user-images.githubusercontent.com/88590516/153700948-2d1681df-a728-4afb-91d4-6b97c01d0ebc.png)
-![Figure_2](https://user-images.githubusercontent.com/88590516/153700950-b2e8e98d-4b20-465d-bcd2-c8fb1f00daad.png)
-![Figure_3](https://user-images.githubusercontent.com/88590516/153700951-f739a9e0-3665-428b-9d30-9ca2326562ca.png)
-![Figure_4](https://user-images.githubusercontent.com/88590516/153700952-77475e9b-84f9-403d-8e08-a8869ddbaf49.png)
+
+
+![Figure_1](https://user-images.githubusercontent.com/88590516/153700984-b6428e2d-f60e-48d5-b9c0-d0ceb0fb44e7.png)
+![Figure_2](https://user-images.githubusercontent.com/88590516/153700991-d42a41fa-79a7-412d-b7b1-31e7291831f3.png)
+![Figure_3](https://user-images.githubusercontent.com/88590516/153700992-d9e1b24a-7862-4559-ae4a-45fa2c890ed3.png)
+![Figure_4](https://user-images.githubusercontent.com/88590516/153700995-4ba17f5b-c14e-4aa9-8ddc-f1fe2481aa61.png)
+
+
 
 --------------------Using KNN Algorithm--------------------
 6.928203230275509
