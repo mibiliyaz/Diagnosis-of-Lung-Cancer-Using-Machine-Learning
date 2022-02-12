@@ -5,7 +5,6 @@
 Dataset:  61 <br>
    <table>
       <th>
-         <td></td>
          <td>S.No.</td>
          <td>Patient Id</td>
          <td>Age</td>
