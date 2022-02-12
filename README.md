@@ -1,6 +1,7 @@
 # Diagnosis-of-Lung-Cancer-Using-Machine-Learning
 
-# Project 1 :
+# Project 1 : 
+<p>
 Dataset:  61
    S.No Patient Id  Age  Smokes  AreaQ  Alcohol  Result
 0     1      pt001   35       3      5        4       1
@@ -35,3 +36,4 @@ Accuracy :  76.92307692307693
 ---------------Using Decision Tree Algorithm---------------
 Classification accuracy on train 95.83333333333334
 Classification accuracy on test 69.23076923076923
+</p>
