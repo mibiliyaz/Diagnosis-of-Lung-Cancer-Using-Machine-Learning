@@ -10,12 +10,14 @@ Dataset:  61 <br>
 3     4      pt004   28       0      8        1       0  <br>
 4     5      pt005   68       4      5        6       1  <br>
 <br>
-<br>
+   
+   
 ![Figure_1](https://user-images.githubusercontent.com/88590516/153700984-b6428e2d-f60e-48d5-b9c0-d0ceb0fb44e7.png)
 ![Figure_2](https://user-images.githubusercontent.com/88590516/153700991-d42a41fa-79a7-412d-b7b1-31e7291831f3.png)
 ![Figure_3](https://user-images.githubusercontent.com/88590516/153700992-d9e1b24a-7862-4559-ae4a-45fa2c890ed3.png)
 ![Figure_4](https://user-images.githubusercontent.com/88590516/153700995-4ba17f5b-c14e-4aa9-8ddc-f1fe2481aa61.png)
-<br>
+
+   
 <br>
 --------------------Using KNN Algorithm-------------------- <br>
 6.928203230275509 <br>
