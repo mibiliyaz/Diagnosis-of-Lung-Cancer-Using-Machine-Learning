@@ -3,13 +3,69 @@
 # Project 1 : 
 <p>
 Dataset:  61 <br>
-   S.No Patient Id  Age  Smokes  AreaQ  Alcohol  Result  <br>
-0     1      pt001   35       3      5        4       1  <br>
-1     2      pt002   27      20      2        5       1  <br>
-2     3      pt003   30       0      5        2       0  <br>
-3     4      pt004   28       0      8        1       0  <br>
-4     5      pt005   68       4      5        6       1  <br>
-<br>
+   <table>
+      <th>
+         <td></td>
+         <td>S.No.</td>
+         <td>Patient Id</td>
+         <td>Age</td>
+         <td>Smokes</td>
+         <td>AreaQ</td>
+         <td>Alcohol</td>
+         <td>Result</td>
+      </th>
+      <tr>
+         <td>0</td>
+         <td>1</td>
+         <td>pt001</td>
+         <td>35</td>
+         <td>3</td>
+         <td>5</td>
+         <td>4</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <td>1</td>
+         <td>2</td>
+         <td>pt002</td>
+         <td>27</td>
+         <td>20</td>
+         <td>2</td>
+         <td>5</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <td>2</td>
+         <td>3</td>
+         <td>pt003</td>
+         <td>30</td>
+         <td>0</td>
+         <td>5</td>
+         <td>2</td>
+         <td>0</td>
+      </tr>
+      <tr>
+         <td>3</td>
+         <td>4</td>
+         <td>pt004</td>
+         <td>28</td>
+         <td>0</td>
+         <td>8</td>
+         <td>1</td>
+         <td>0</td>
+      </tr>
+      <tr>
+         <td>4</td>
+         <td>5</td>
+         <td>pt005</td>
+         <td>68</td>
+         <td>4</td>
+         <td>5</td>
+         <td>6</td>
+         <td>1</td>
+      </tr>
+   </table>
+ <br>
    
    
 ![Figure_1](https://user-images.githubusercontent.com/88590516/153700984-b6428e2d-f60e-48d5-b9c0-d0ceb0fb44e7.png)
